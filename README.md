@@ -2,7 +2,8 @@
 
 ## Information
 
-```To run you need to install:
+```
+To run you need to install:
 qt6-base-dev
 cmake
 ```
