@@ -7,6 +7,7 @@ To run you need to install:
 qt6-base-dev
 cmake
 ```
+#### The program allows you to draw 3D models from a file in .obj
 
 In this project a program to visualise the 3D wireframe models in C++ was implemented. 
 
